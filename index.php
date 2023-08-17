@@ -7,5 +7,6 @@
 </head>
 <body>
   <h1>Test API</h1>
+  <h2>Test 2 API</h2>
 </body>
 </html>
