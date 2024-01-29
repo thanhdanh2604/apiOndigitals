@@ -19,6 +19,6 @@
     "homepage": "https://github.com/valu-digital/wp-graphql-polylang#readme",
     "dependencies": {
         "@prettier/plugin-php": "^0.14.0",
-        "prettier": "^2.0.4"
+        "prettier": "^2.8.8"
     }
 }
